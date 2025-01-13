@@ -250,9 +250,7 @@ const translations = {
         tech: ['MERN Stack', 'AI Integration', 'NLP'],
         github: 'https://github.com/misterbb38/translateFrontend',
       },
-      {
-        
-      }
+     
     ],
 
     // Experiences in EN
